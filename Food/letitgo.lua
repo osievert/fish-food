@@ -12,7 +12,7 @@ food = {
             os = "darwin",
             arch = "amd64",
             url = "https://github.com/NoUseFreak/letitgo/releases/download/" .. version .. "/darwin_amd64.zip",
-            sha256 = "4df069b249a945086028b204b6dad495cf71de54d79f3688f2d8b9b871610dfe",
+            sha256 = "a76ccb241d34a4915c490b4ee30e89eb6486d3e912064b5d607e560d6e2aa9ef",
             resources = {
                 {
                     path = name,
