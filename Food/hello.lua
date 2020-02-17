@@ -11,7 +11,7 @@ food = {
             os = "darwin",
             arch = "amd64",
             url = "https://github.com/osievert/hello/archive/" .. version .. "zip",
-            sha256 = "a76ccb241d34a4915c490b4ee30e89eb6486d3e912064b5d607e560d6e2aa9ef",
+            sha256 = "42222ca3024dff5e614647ff1fa0e523b3ea2a01e4e710a8e3eaa3b257c64a56",
             resources = {
                 {
                     path = name,
@@ -24,7 +24,7 @@ food = {
             os = "linux",
             arch = "amd64",
             url = "https://github.com/osievert/hello/archive/" .. version .. "zip",
-            sha256 = "b72c680f1e278bb1b581cbf884ed1ebe78ea8b6a14d528feeeb7cc79af3927b7",
+            sha256 = "42222ca3024dff5e614647ff1fa0e523b3ea2a01e4e710a8e3eaa3b257c64a56",
             resources = {
                 {
                     path = name,
@@ -37,7 +37,7 @@ food = {
             os = "windows",
             arch = "amd64",
             url = "https://github.com/osievert/hello/archive/" .. version .. "zip",
-            sha256 = "75a7f80ddac6e5e77c436690584740cbffdf15cb152059f117104b08609c8dae",
+            sha256 = "42222ca3024dff5e614647ff1fa0e523b3ea2a01e4e710a8e3eaa3b257c64a56",
             resources = {
                 {
                     path = name,
