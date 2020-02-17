@@ -14,7 +14,7 @@ food = {
             sha256 = "42222ca3024dff5e614647ff1fa0e523b3ea2a01e4e710a8e3eaa3b257c64a56",
             resources = {
                 {
-                    path = name,
+                    path = "hello-" .. version .. "/" .. name,
                     installpath = "bin/" .. name,
                     executable = true
                 }
@@ -27,7 +27,7 @@ food = {
             sha256 = "42222ca3024dff5e614647ff1fa0e523b3ea2a01e4e710a8e3eaa3b257c64a56",
             resources = {
                 {
-                    path = name,
+                    path = "hello-" .. version .. "/" .. name,
                     installpath = "bin/" .. name,
                     executable = true
                 }
@@ -40,7 +40,7 @@ food = {
             sha256 = "42222ca3024dff5e614647ff1fa0e523b3ea2a01e4e710a8e3eaa3b257c64a56",
             resources = {
                 {
-                    path = name,
+                    path = "hello-" .. version .. "/" .. name,
                     installpath = "bin/" .. name,
                     executable = true
                 }
